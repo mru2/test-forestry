@@ -11,6 +11,8 @@ How is it going?
 
 <strong>Test HTML</strong>
 
+<em>Test HTML</em>
+
 {% cloudinary cloudflare.png %}
 
 {% highlight ruby %}

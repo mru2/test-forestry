@@ -9,6 +9,8 @@ meta_desc: My desc
 
 How is it going?
 
+{% cloudinary cloudflare.png %}
+
 {% highlight ruby %}
 def print_hi(name)
 puts "Hi, #{name}"

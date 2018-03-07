@@ -9,6 +9,8 @@ meta_desc: My desc
 
 How is it going?
 
+<strong>Test HTML</strong>
+
 {% cloudinary cloudflare.png %}
 
 {% highlight ruby %}

@@ -11,6 +11,8 @@ How is it going?
 
 <strong>Test html</strong>
 
+<script>alert('xss');</script>
+
 {% highlight ruby %}
 def print_hi(name)
 puts "Hi, #{name}"

@@ -5,19 +5,19 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
-- name: date
-  label: Date
-  type: datetime
-  hidden: false
+- type: text
+  name: meta_title
+  label: SEO Title
   default: ''
-- name: categories
-  label: Categories
-  type: tag_list
-  hidden: false
+- type: text
+  name: meta_desc
+  label: SEO Desc
+  config:
+    required: false
   default: ''

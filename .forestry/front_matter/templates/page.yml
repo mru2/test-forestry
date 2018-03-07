@@ -17,6 +17,8 @@ fields:
   name: meta_title
   label: SEO Title
   default: ''
+  config:
+    required: true
 - type: text
   name: meta_desc
   label: SEO Desc

@@ -9,7 +9,7 @@ meta_desc: My desc
 
 How is it going?
 
-{% cloudinary cloudflare.png %}
+<strong>Test html</strong>
 
 {% highlight ruby %}
 def print_hi(name)
